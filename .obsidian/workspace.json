@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "二分探索.md",
-                "mode": "preview",
+                "file": "BFS.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "二分探索.md",
+                "file": "BFS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "二分探索.md",
+                "file": "BFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "二分探索.md"
+                "file": "BFS.md"
               }
             }
           }
@@ -149,22 +149,23 @@
   },
   "active": "266d7ae7df6bfe5c",
   "lastOpenFiles": [
-    "競技プロアルゴリズム学習.md",
+    "DP.md",
+    "グラフアルゴリズム.md",
     "二分探索.md",
+    "BFS.md",
+    "セグメント木.md",
+    "競技プロアルゴリズム学習.md",
+    "無題のファイル.canvas",
+    "累積和.md",
+    "全探索.md",
     "[二分探索アルゴリズムを一般化 〜 めぐる式二分探索法のススメ 〜.md",
     "尺取り法.md",
-    "BFS.md",
-    "グラフアルゴリズム.md",
-    "DP.md",
-    "累積和.md",
     "2024-09-21.md",
-    "全探索.md",
     "無題のファイル.md",
     "ABC371_d.md",
     "グラフ.md",
     "無題のフォルダ",
     "Welcome.md",
-    "無題のファイル.canvas",
     "2024-09-12.md"
   ]
 }
