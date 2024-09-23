@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9f1913747895dd0f",
+        "id": "ea04ab62f133076c",
         "type": "tabs",
         "children": [
           {
-            "id": "266d7ae7df6bfe5c",
+            "id": "a50e68373af8738d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BFS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BFS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,17 +118,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BFS.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "e561d8ec567e61ac",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,21 +147,22 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "266d7ae7df6bfe5c",
+  "active": "602d3e49f3e91818",
   "lastOpenFiles": [
+    "無題のファイル.canvas",
+    "2024-09-24.md",
+    "無題のファイル.md",
+    "BFS.md",
     "DP.md",
     "グラフアルゴリズム.md",
     "二分探索.md",
-    "BFS.md",
     "セグメント木.md",
     "競技プロアルゴリズム学習.md",
-    "無題のファイル.canvas",
     "累積和.md",
     "全探索.md",
     "[二分探索アルゴリズムを一般化 〜 めぐる式二分探索法のススメ 〜.md",
     "尺取り法.md",
     "2024-09-21.md",
-    "無題のファイル.md",
     "ABC371_d.md",
     "グラフ.md",
     "無題のフォルダ",
