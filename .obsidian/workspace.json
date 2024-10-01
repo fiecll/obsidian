@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "競技プロアルゴリズム学習.md",
+                "file": "C.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "競技プロアルゴリズム学習.md",
+                "file": "C.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "競技プロアルゴリズム学習.md",
+                "file": "C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "競技プロアルゴリズム学習.md"
+                "file": "C.md"
               }
             }
           },
@@ -157,15 +157,18 @@
   },
   "active": "a50e68373af8738d",
   "lastOpenFiles": [
-    "BFS.md",
-    "競技プロアルゴリズム学習.md",
-    "尺取り法.md",
-    "コンテストABC復習.md",
-    "D.md",
     "ABC 372.md",
-    "C.md",
+    "372-B.md",
     "B.md",
+    "372-A.md",
     "A.md",
+    "ABC373.md",
+    "コンテストABC復習.md",
+    "競技プロアルゴリズム学習.md",
+    "BFS.md",
+    "尺取り法.md",
+    "D.md",
+    "C.md",
     "2024-09-21 ABC 372.md",
     "無題のファイル.md",
     "累積和.md",
