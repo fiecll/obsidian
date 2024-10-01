@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "373-D.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -157,9 +157,10 @@
   },
   "active": "a50e68373af8738d",
   "lastOpenFiles": [
+    "[AtCoder NoviSteps ).md",
+    "373-D.md",
     "372-D.md",
     "372-C.md",
-    "373-D.md",
     "ABC373.md",
     "372-B.md",
     "ABC 372.md",
@@ -183,7 +184,6 @@
     "セグメント木.md",
     "全探索.md",
     "[二分探索アルゴリズムを一般化 〜 めぐる式二分探索法のススメ 〜.md",
-    "2024-09-21.md",
     "無題のフォルダ"
   ]
 }
