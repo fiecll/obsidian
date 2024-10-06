@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "374-B.md",
+                "file": "374-C.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "374-B.md",
+                "file": "374-C.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "374-B.md",
+                "file": "374-C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "374-B.md"
+                "file": "374-C.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "a50e68373af8738d",
   "lastOpenFiles": [
+    "374-B.md",
     "374-A.md",
     "ABC374.md",
     "ABC 372.md",
@@ -167,7 +168,6 @@
     "373-E.md",
     "374-D.md",
     "374-C.md",
-    "374-B.md",
     "コンテストABC復習.md",
     "[AtCoder NoviSteps ).md",
     "372-C.md",
