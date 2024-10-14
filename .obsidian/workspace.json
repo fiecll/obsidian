@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "[AtCoder NoviSteps ).md",
+                "file": "ABC復習テンプレート/ABC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "[AtCoder NoviSteps ).md",
+                "file": "ABC復習テンプレート/ABC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "[AtCoder NoviSteps ).md",
+                "file": "ABC復習テンプレート/ABC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "[AtCoder NoviSteps ).md"
+                "file": "ABC復習テンプレート/ABC.md"
               }
             }
           },
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,15 +155,19 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "602d3e49f3e91818",
+  "active": "a50e68373af8738d",
   "lastOpenFiles": [
+    "374-C.md",
+    "コンテストABC復習.md",
+    "A.md",
+    "ABC復習テンプレート/ABC.md",
     "ABC375.md",
+    "無題のファイル.md",
+    "[AtCoder NoviSteps ).md",
+    "ABC復習テンプレート",
     "ABC",
     "ABC.md",
-    "コンテストABC復習.md",
     "ABC374.md",
-    "[AtCoder NoviSteps ).md",
-    "374-C.md",
     "374-D.md",
     "順列全探索.md",
     "競技プロアルゴリズム学習.md",
@@ -182,8 +185,6 @@
     "372-B.md",
     "E.md",
     "D.md",
-    "C.md",
-    "B.md",
     "無題のファイル.canvas"
   ]
 }
