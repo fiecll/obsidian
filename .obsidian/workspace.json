@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ea04ab62f133076c",
+        "id": "1c8ad98ed2993667",
         "type": "tabs",
         "children": [
           {
-            "id": "a50e68373af8738d",
+            "id": "823cac6e50f11304",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ABC復習テンプレート/ABC.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ABC復習テンプレート/ABC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ABC復習テンプレート/ABC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ABC復習テンプレート/ABC.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,12 +147,12 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "a50e68373af8738d",
+  "active": "823cac6e50f11304",
   "lastOpenFiles": [
+    "ABC復習テンプレート/ABC.md",
     "374-C.md",
     "コンテストABC復習.md",
     "A.md",
-    "ABC復習テンプレート/ABC.md",
     "ABC375.md",
     "無題のファイル.md",
     "[AtCoder NoviSteps ).md",
