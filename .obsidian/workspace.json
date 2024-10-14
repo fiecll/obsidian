@@ -11,8 +11,12 @@
             "id": "823cac6e50f11304",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ABC375.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ABC375.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ABC375.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ABC375.md"
+              }
             }
           },
           {
@@ -149,17 +157,17 @@
   },
   "active": "823cac6e50f11304",
   "lastOpenFiles": [
+    "ABC374.md",
+    "ABC375.md",
     "ABC復習テンプレート/ABC.md",
     "374-C.md",
     "コンテストABC復習.md",
     "A.md",
-    "ABC375.md",
     "無題のファイル.md",
     "[AtCoder NoviSteps ).md",
     "ABC復習テンプレート",
     "ABC",
     "ABC.md",
-    "ABC374.md",
     "374-D.md",
     "順列全探索.md",
     "競技プロアルゴリズム学習.md",
