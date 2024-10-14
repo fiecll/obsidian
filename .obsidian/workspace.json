@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "373-D.md",
+                "file": "375-C.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "373-D.md",
+                "file": "375-C.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "373-D.md",
+                "file": "375-C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "373-D.md"
+                "file": "375-C.md"
               }
             }
           },
@@ -157,8 +157,10 @@
   },
   "active": "823cac6e50f11304",
   "lastOpenFiles": [
-    "373-E.md",
     "ABC375.md",
+    "375-C.md",
+    "373-D.md",
+    "373-E.md",
     "375-A.md",
     "ABC374.md",
     "ABC復習テンプレート/ABC.md",
@@ -181,10 +183,8 @@
     "ABC 372.md",
     "ABC373.md",
     "372-D.md",
-    "373-D.md",
     "372-C.md",
     "372-B.md",
-    "E.md",
     "無題のファイル.canvas"
   ]
 }
