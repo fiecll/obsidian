@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ABC376.md",
+                "file": "376-A.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ABC376.md",
+                "file": "376-A.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ABC376.md",
+                "file": "376-A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ABC376.md"
+                "file": "376-A.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "823cac6e50f11304",
   "lastOpenFiles": [
-    "ABC375.md",
     "ABC376.md",
+    "376-A.md",
+    "ABC375.md",
     "A.md",
     "コンテストABC復習.md",
     "375-C.md",
@@ -184,7 +185,6 @@
     "グラフアルゴリズム.md",
     "ABC 372.md",
     "ABC373.md",
-    "372-D.md",
     "無題のファイル.canvas"
   ]
 }
