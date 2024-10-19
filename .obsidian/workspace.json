@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "375-C.md",
+                "file": "ABC376.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "375-C.md",
+                "file": "ABC376.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "375-C.md",
+                "file": "ABC376.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "375-C.md"
+                "file": "ABC376.md"
               }
             }
           },
@@ -158,9 +158,12 @@
   "active": "823cac6e50f11304",
   "lastOpenFiles": [
     "ABC375.md",
+    "ABC376.md",
+    "A.md",
+    "コンテストABC復習.md",
+    "375-C.md",
     "375-B.md",
     "ABC374.md",
-    "375-C.md",
     "373-D.md",
     "374-B.md",
     "374-D.md",
@@ -170,8 +173,6 @@
     "374-E.md",
     "373-E.md",
     "ABC復習テンプレート/ABC.md",
-    "コンテストABC復習.md",
-    "A.md",
     "無題のファイル.md",
     "[AtCoder NoviSteps ).md",
     "ABC復習テンプレート",
@@ -184,7 +185,6 @@
     "ABC 372.md",
     "ABC373.md",
     "372-D.md",
-    "372-C.md",
     "無題のファイル.canvas"
   ]
 }
