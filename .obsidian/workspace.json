@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "376-B.md",
+                "file": "376-C.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "376-B.md",
+                "file": "376-C.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "376-B.md",
+                "file": "376-C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "376-B.md"
+                "file": "376-C.md"
               }
             }
           },
@@ -157,13 +157,14 @@
   },
   "active": "823cac6e50f11304",
   "lastOpenFiles": [
+    "ABC376.md",
+    "376-C.md",
+    "376-B.md",
     "374-B.md",
     "374-E.md",
     "375-A.md",
-    "376-B.md",
     "375-C.md",
     "376-A.md",
-    "ABC376.md",
     "ABC375.md",
     "A.md",
     "コンテストABC復習.md",
@@ -184,7 +185,6 @@
     "競技プロアルゴリズム学習.md",
     "bit全探索.md",
     "グラフアルゴリズム.md",
-    "ABC 372.md",
     "無題のファイル.canvas"
   ]
 }
