@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "テンプレート/ABC復習.md",
+                "file": "ABC377.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ABC復習"
+              "title": "ABC377"
             }
           }
         ]
@@ -170,13 +170,14 @@
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false
+      "command-palette:コマンドパレットを開く": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "823cac6e50f11304",
   "lastOpenFiles": [
-    "ABC377.md",
     "テンプレート/ABC復習.md",
+    "ABC377.md",
     "ABC376.md",
     "[AtCoder NoviSteps ).md",
     "ABC373.md",
