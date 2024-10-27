@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "テンプレート/ABC復習.md",
+                "file": "ABC377-D.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ABC復習"
+              "title": "ABC377-D"
             }
           }
         ]
@@ -176,8 +176,10 @@
   },
   "active": "d750ed86ccb906be",
   "lastOpenFiles": [
-    "ABC377-A.md",
     "ABC377.md",
+    "ABC377-D.md",
+    "ABC377-B.md",
+    "ABC377-A.md",
     "テンプレート/ABC復習.md",
     "-A.md",
     "ABC376.md",
@@ -201,8 +203,6 @@
     "ABC375.md",
     "A.md",
     "375-B.md",
-    "ABC374.md",
-    "373-D.md",
     "ABC復習テンプレート",
     "ABC",
     "無題のファイル.canvas"
