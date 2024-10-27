@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1c8ad98ed2993667",
+        "id": "fb83262b5dec88e1",
         "type": "tabs",
         "children": [
           {
-            "id": "823cac6e50f11304",
+            "id": "d750ed86ccb906be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ABC377.md",
+                "file": "テンプレート/ABC復習.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ABC377"
+              "title": "ABC復習"
             }
           }
         ]
@@ -174,10 +174,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "823cac6e50f11304",
+  "active": "d750ed86ccb906be",
   "lastOpenFiles": [
-    "テンプレート/ABC復習.md",
+    "ABC377-A.md",
     "ABC377.md",
+    "テンプレート/ABC復習.md",
+    "-A.md",
     "ABC376.md",
     "[AtCoder NoviSteps ).md",
     "ABC373.md",
@@ -201,8 +203,6 @@
     "375-B.md",
     "ABC374.md",
     "373-D.md",
-    "374-D.md",
-    "374-A.md",
     "ABC復習テンプレート",
     "ABC",
     "無題のファイル.canvas"
