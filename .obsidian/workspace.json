@@ -73,7 +73,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +175,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d750ed86ccb906be",
+  "active": "30bb538253e26679",
   "lastOpenFiles": [
     "コンテストABC復習.md",
     "ABC378.md",
