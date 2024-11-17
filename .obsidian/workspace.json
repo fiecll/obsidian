@@ -11,10 +11,14 @@
             "id": "d750ed86ccb906be",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "type": "markdown",
+              "state": {
+                "file": "ABC377-D.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ABC377-D"
             }
           }
         ]
@@ -172,11 +176,11 @@
   },
   "active": "d750ed86ccb906be",
   "lastOpenFiles": [
-    "ABC380.md",
-    "コンテストABC復習.md",
-    "ABC379.md",
-    "ABC380-G.md",
     "ABC378.md",
+    "ABC380.md",
+    "ABC379.md",
+    "コンテストABC復習.md",
+    "ABC380-G.md",
     "テンプレート/ABC復習.md",
     "ABC377-D.md",
     "ABC 372.md",
