@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ABC380-C.md",
+                "file": "ABC377-B.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ABC380-C"
+              "title": "ABC377-B"
             }
           }
         ]
@@ -176,15 +176,15 @@
   },
   "active": "d750ed86ccb906be",
   "lastOpenFiles": [
+    "ABC377-A.md",
+    "ABC377-D.md",
+    "ABC377-B.md",
+    "ABC380-C.md",
     "ABC380-B.md",
     "ABC380.md",
     "ABC380-G.md",
     "テンプレート/ABC復習.md",
-    "ABC380-C.md",
-    "ABC377-D.md",
     "ABC380-A.md",
-    "ABC377-B.md",
-    "ABC377-A.md",
     "376-D.md",
     "ABC378.md",
     "ABC379.md",
