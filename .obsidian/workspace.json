@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ABC380.md",
+                "file": "ABC380-B.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ABC380"
+              "title": "ABC380-B"
             }
           }
         ]
@@ -176,18 +176,20 @@
   },
   "active": "d750ed86ccb906be",
   "lastOpenFiles": [
-    "ABC380-B.md",
-    "ABC380.md",
-    "ABC380-G.md",
+    "ABC380-A.md",
     "ABC377-D.md",
+    "ABC377-B.md",
+    "ABC377-A.md",
+    "ABC380.md",
+    "376-D.md",
+    "ABC380-B.md",
+    "ABC380-G.md",
     "ABC378.md",
     "ABC379.md",
     "コンテストABC復習.md",
     "テンプレート/ABC復習.md",
     "ABC 372.md",
     "ABC377.md",
-    "ABC377-B.md",
-    "ABC377-A.md",
     "-A.md",
     "ABC376.md",
     "[AtCoder NoviSteps ).md",
@@ -198,11 +200,9 @@
     "二分探索.md",
     "全探索.md",
     "376-E.md",
-    "376-D.md",
     "376-C.md",
     "376-B.md",
     "374-B.md",
-    "374-E.md",
     "ABC復習テンプレート",
     "ABC",
     "無題のファイル.canvas"
