@@ -14,7 +14,7 @@
 - 問題D： ([D](https://atcoder.jp/contests/abc<% contestNum %>/tasks/abc<% contestNum %>_d))
 - 問題E： ([E](https://atcoder.jp/contests/abc<% contestNum %>/tasks/abc<% contestNum %>_e))
 - 問題F： ([F](https://atcoder.jp/contests/abc<% contestNum %>/tasks/abc<% contestNum %>_f))
-- 問題G： ([F](https://atcoder.jp/contests/abc<% contestNum %>/tasks/abc<% contestNum %>_f))
+- 問題G： ([G](https://atcoder.jp/contests/abc<% contestNum %>/tasks/abc<% contestNum %>_f))
 
 ## 解法まとめ
 - 問題A： [[ABC<% contestNum %>-A]]
