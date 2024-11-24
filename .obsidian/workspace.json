@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ABC381-D.md",
+                "file": "競技プロアルゴリズム学習.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ABC381-D"
+              "title": "競技プロアルゴリズム学習"
             }
           }
         ]
@@ -176,8 +176,8 @@
   },
   "active": "d750ed86ccb906be",
   "lastOpenFiles": [
-    "ABC381.md",
     "ABC381-D.md",
+    "ABC381.md",
     "ABC381-C.md",
     "ABC381-B.md",
     "ABC381-A.md",
